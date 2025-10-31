@@ -6,8 +6,8 @@ This app allows users to browse experiences, select slots, and complete bookings
 ---
 
 ## DEPLOYEMENT LINKS :- 
- - FRONTEND :- 
- - BACKEND :-
+ - FRONTEND :- https://highway-deliteio.netlify.app
+ - BACKEND :- https://highway-delite-oz4g.onrender.com
 
 ## ✨ Features  
 
