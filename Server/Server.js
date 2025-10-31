@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 5000;
 
 // Middleware       
 app.use(cors({
-    origin: ['http://localhost:5173','http://localhost:5174'], // Allow specific origins
+    origin: ['http://localhost:5173','http://localhost:5174','https://highway-deliteio.netlify.app/'], // Allow specific origins
     credentials: true, // Allow credentials (cookies, authorization headers)
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With']
