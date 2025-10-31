@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Prata&display=swap');
+@import "tailwindcss";
+
+*{
+  font-family: 'Outfit', sans-serif;
+}
+
+@theme {
+  /* --color-primary: #FFD700; */
+  --color-primary:  #FFD643;
+  --color-primary-dull: #F2C849;
+
+  /* PlaceCards */
+  --color-city: #D6D6D6;
+  --color-city-box: #F0F0F0;
+  --color-box-t: #6C6C6C;
+
+  /* Navbar */
+  --color-nav:#F9F9F9;
+  
+  --color-light: #F1F5F9;
+  --color-border: #c4c7d2;
+}
